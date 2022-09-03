@@ -44,7 +44,6 @@
             android:orientation="horizontal">
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/hos_seef"
 
                 android:layout_width="100dp"
                 android:layout_height="150dp"
@@ -54,6 +53,7 @@
                 app:cardCornerRadius="20dp">
 
                 <LinearLayout
+                    android:id="@+id/hos_seef"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
@@ -86,7 +86,6 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/hos_mubark"
 
                 android:layout_width="100dp"
                 android:layout_height="150dp"
@@ -96,6 +95,7 @@
                 app:cardCornerRadius="20dp">
 
                 <LinearLayout
+                    android:id="@+id/hos_mubark"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
@@ -127,7 +127,6 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/hos_jaber"
 
                 android:layout_width="100dp"
                 android:layout_height="150dp"
@@ -137,6 +136,7 @@
                 app:cardCornerRadius="20dp">
 
                 <LinearLayout
+                    android:id="@+id/hos_jaber"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
@@ -170,7 +170,6 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="100dp"
-                android:id="@+id/hos_jahra"
 
                 android:layout_height="150dp"
                 android:layout_marginStart="28dp"
@@ -179,6 +178,7 @@
                 app:cardCornerRadius="20dp">
 
                 <LinearLayout
+                    android:id="@+id/hos_jahra"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
@@ -211,7 +211,6 @@
             </androidx.cardview.widget.CardView>
 
             <androidx.cardview.widget.CardView
-                android:id="@+id/hos_hadi"
 
                 android:layout_width="100dp"
                 android:layout_height="150dp"
@@ -221,6 +220,7 @@
                 app:cardCornerRadius="20dp">
 
                 <LinearLayout
+                    android:id="@+id/hos_hadi"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
@@ -254,7 +254,6 @@
 
             <androidx.cardview.widget.CardView
                 android:layout_width="100dp"
-                android:id="@+id/hos_adan"
 
                 android:layout_height="150dp"
                 android:layout_marginStart="28dp"
@@ -263,6 +262,7 @@
                 app:cardCornerRadius="20dp">
 
                 <LinearLayout
+                    android:id="@+id/hos_adan"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
